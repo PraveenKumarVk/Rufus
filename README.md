@@ -1,4 +1,3 @@
-````Markdown
 # Rufus
 
 **Rufus** is an AI-powered scraping client designed to interact with a FastAPI-based scraping API. It is capable of dynamically fetching data from specified websites or searching for relevant data based on user instructions. Rufus is built for integrating web-scraped content into **RAG (Retrieval-Augmented Generation)** pipelines.
