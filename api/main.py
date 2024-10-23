@@ -110,9 +110,9 @@ class RufusAI:
             return all_relevant_content
 
 # Initialize Rufus
-os.environ['OPENAI_API_KEY'] = "sk-N1nj_B13pzTctbuUxaSiEzEgMNhZUcetLSf_GQZAmtT3BlbkFJEBttXqcVHsJPSzzKCT6WDpjO4XLDFT9boN_-xkV1sA"
-os.environ['GOOGLE_API_KEY'] = "AIzaSyDvuO88AVR1wRjwX0CTGLRiCSUDlpUVu-4"
-os.environ['GOOGLE_CX'] = "a0694e2a9ba594e16"
+os.environ['OPENAI_API_KEY'] = "---"
+os.environ['GOOGLE_API_KEY'] = "****"
+os.environ['GOOGLE_CX'] = "----"
 
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
